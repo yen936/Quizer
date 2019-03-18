@@ -5,6 +5,6 @@ Quizzer lets you test yourself on meaningless facts. Pick up your smartphones an
 
 ## Usage example
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/yen936/Quizer/blob/master/Quizzler.gif)
 
 
