@@ -12,4 +12,3 @@ Just pretend you didnt see the answers to the first 5. 😉
 ![alt text](https://github.com/yen936/Quizer/blob/master/Quizzler.gif)
 
 
-
